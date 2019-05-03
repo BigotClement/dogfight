@@ -6,4 +6,4 @@ public interface IViewSystem {
 	
 	public void closeAll();
 
-}
+}fhg
